@@ -4,7 +4,7 @@
 
 ***
 
-**specific task: 多标签文本分类任务**
+**leetcode刷题指南**
 
 ***
 
